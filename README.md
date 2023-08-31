@@ -8,5 +8,6 @@
   <a href="https://www.linkedin.com/in/ingridddias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   </div>
-
-![ProgrammingComputerGIF](https://github.com/Ingrid-Derner/Ingrid-Derner/assets/143666624/3a6412ee-5cfd-4b08-b38e-ee1eec04366f)       
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/143666624/264655743-3a6412ee-5cfd-4b08-b38e-ee1eec04366f.gif" alt="GIF" style="position: relative; top: -50px;">
+</div>
