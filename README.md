@@ -8,3 +8,4 @@
 
   </div>
 
+![ProgrammingComputerGIF](https://github.com/Ingrid-Derner/Ingrid-Derner/assets/143666624/3a6412ee-5cfd-4b08-b38e-ee1eec04366f)       
